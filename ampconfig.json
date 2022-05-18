@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.7",
+  "appInfo": {
+    "name": "Hypha Dashboard",
+    "description": "Reporting app for Hypha brands",
+    "version": "urg4u9dp",
+    "id": "cl3bvzggj31996501s6urymo4jg",
+    "url": "https://app.amplication.com/cl3bvzggj31996501s6urymo4jg",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl3bvzggj31996501s6urymo4jg",
+      "authProvider": "Jwt"
+    }
+  }
+}
